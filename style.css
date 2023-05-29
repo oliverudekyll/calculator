@@ -1,12 +1,14 @@
 body {
     display: flex;
+    flex-flow: nowrap;
     justify-content: center;
     align-items: space-between;
 }
 
 div.header {
     height: 40vh;
-    
+    width: 100vw;
+
 }
 
 div.chassis {
