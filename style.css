@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+}
+
+div.chassis {
+    position: relative;
+    width: 35vw;
+    min-width: 800px;
+    background-color: grey;
+}
