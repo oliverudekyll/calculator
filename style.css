@@ -4,9 +4,15 @@ body {
     align-items: space-between;
 }
 
+div.header {
+    height: 40vh;
+    
+}
+
 div.chassis {
     position: relative;
     width: 35vw;
+    height: 60vh;
     min-width: 800px;
     background-color: grey;
 }
